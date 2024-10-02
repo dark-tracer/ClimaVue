@@ -42,3 +42,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 OpenWeatherMap API for providing real-time weather data
 Chart.js for providing a charting library
 Mocky or JSON Server for providing a mock API tool
+
+## Author
+Bernie Amponsah
