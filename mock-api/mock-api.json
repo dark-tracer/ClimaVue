@@ -1,0 +1,36 @@
+{
+  "cities": [
+    {
+      "name": "New York",
+      "weather": {
+        "current": {
+          "temperature": 25,
+          "humidity": 60,
+          "windSpeed": 10,
+          "weatherDescription": "Partly Cloudy"
+        },
+        "forecast": [
+          {
+            "date": "2023-03-01",
+            "highTemperature": 28,
+            "lowTemperature": 20,
+            "weatherDescription": "Sunny"
+          },
+          {
+            "date": "2023-03-02",
+            "highTemperature": 25,
+            "lowTemperature": 18,
+            "weatherDescription": "Cloudy"
+          },
+          ...
+        ]
+      }
+    },
+    {
+      "name": "London",
+      "weather": {
+        ...
+      }
+    }
+  ]
+}
